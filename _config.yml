@@ -1,0 +1,45 @@
+title: "Sophia Gainer | Cybersecurity Portfolio"
+name: "Sophia Gainer"
+email: "sophiagainer84@gmail.com"
+description: "Cybersecurity analyst with 5+ years experience in wind renewable energy quality engineering, currently completing Google Cybersecurity Professional Certificate."
+url: "https://Sgainer84.github.io"
+baseurl: ""
+linkedin: "https://www.linkedin.com/in/sophia-gainer"
+location: "Pensacola, Florida"
+phone: "850-346-6985"
+minimal_mistakes_skin: "default"
+markdown: kramdown
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Skills"
+    url: /skills/
+  - title: "Projects"
+    url: /projects/
+  - title: "Experience"
+    url: /experience/
+  - title: "Education"
+    url: /education/
+
+author:
+  name: "Sophia Gainer"
+  avatar: ""
+  bio: "Cybersecurity analyst passionate about data safety and proactive threat management."
+  location: "Pensacola, Florida"
+  links:
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/sophia-gainer"
+    - label: "Email"
+      url: "mailto:sophiagainer84@gmail.com"
+    - label: "Cybersecurity Portfolio"
+      url: "https://Sgainer84.github.io"
